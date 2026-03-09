@@ -1,0 +1,5 @@
+{
+  "name": "Educater Online Assessment",
+  "description": "A professional online testing platform for Educater, featuring automated scoring and Formspree integration.",
+  "requestFramePermissions": []
+}
